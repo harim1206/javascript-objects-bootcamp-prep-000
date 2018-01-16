@@ -1,4 +1,3 @@
 var playlist = {
-  DJHarvey = 'Flamenco'
-
+  DJHarvey: 'Flamenco'
 };
