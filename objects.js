@@ -3,7 +3,7 @@ var playlist = {
 };
 
 function updatePlaylist(obj,str,title){
-  obj[str]=value
+  obj[str]=title
   return obj
 
 }
